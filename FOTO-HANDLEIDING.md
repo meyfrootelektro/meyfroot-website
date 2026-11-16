@@ -6,7 +6,7 @@ Tip: gebruik liggende foto's van max. ±1600 px breed en < 500 KB, dan laadt de 
 
 | Bestand | Waar op de site |
 |---|---|
-| elektriciteit-contact-kast-clean.png | Home – blok "Rechtstreeks contact met uw installateur" |
+| elektriciteit-contact-kast.jpg | Home – blok "Rechtstreeks contact met uw installateur" |
 | elektriciteit.jpg | Home – tegel Elektriciteit · Realisaties · Elektriciteit-pagina (cover) |
 | airco.jpg | Home – tegel Airco · Realisaties · Airco-pagina (cover) |
 | zonnepanelen.jpg | Home – tegel Zonnepanelen |
